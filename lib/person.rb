@@ -5,5 +5,5 @@ class Person
 
   def walk
     "The Person is walking"
-    en Marshal.load(Marshal.dump(obj_to_copy))
+  end
 end
